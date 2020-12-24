@@ -1,3 +1,36 @@
 * {
   box-sizing: border-box;
 }
+
+.bg-black {
+  background-color: black;
+}
+
+.py-7 {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
+
+.bg-img {
+  background-image: url(https://www.pixel4k.com/wp-content/uploads/2018/09/london-evening-buildings-water-side-8k_1538070302.jpg);
+  background-size: cover;  
+}
+
+.icon {
+  font-size: 2rem;
+}
+
+hr {
+  width: 10%;
+  border-width: 3px;
+}
+
+.bg-img-content {
+  background: url(https://wallpapercave.com/wp/TSlZ57J.jpg);
+  background-size: cover;
+}
+
+#bg-footer {
+  background-color: black;
+  color: white;
+}
