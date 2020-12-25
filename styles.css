@@ -16,7 +16,7 @@
   background-size: cover;  
 }
 
-.icon {
+.link {
   font-size: 2rem;
 }
 
@@ -33,4 +33,13 @@ hr {
 #bg-footer {
   background-color: black;
   color: white;
+}
+
+#border-bottom {
+  border-bottom: 2px solid rgb(214, 208, 208);
+}
+
+.icon {
+  color: orange;
+  font-size: 1.5rem;
 }
